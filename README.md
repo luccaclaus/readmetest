@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/luccaclaus/readmetest?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/luccaclaus/readmetest?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/luccaclaus/readmetest?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luccaclaus/readmetest?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/luccaclaus/readmetest)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luccaclaus/readmetest?style=for-the-badge)
